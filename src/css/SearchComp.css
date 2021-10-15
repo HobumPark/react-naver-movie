@@ -1,0 +1,30 @@
+
+#search-comp{
+    width:60%;
+    height:70px;
+    background-color: #42be6f;
+    padding-top: 10px;
+    box-sizing: border-box;
+    margin:0 auto;
+    border:1px solid #777;
+}
+
+#search-comp>input{
+    width:200px;
+    height:30px;
+    background-color: #fff;
+    color:black;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border:none;
+}
+
+#search-comp>button{
+    width:80px;
+    height:35px;
+    background-color: green;
+    color:white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border:none;
+}
