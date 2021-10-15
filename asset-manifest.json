@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-naver-movie/static/css/main.f401cc11.chunk.css",
+    "main.js": "/react-naver-movie/static/js/main.168ac7e7.chunk.js",
+    "main.js.map": "/react-naver-movie/static/js/main.168ac7e7.chunk.js.map",
+    "runtime-main.js": "/react-naver-movie/static/js/runtime-main.01c718fb.js",
+    "runtime-main.js.map": "/react-naver-movie/static/js/runtime-main.01c718fb.js.map",
+    "static/js/2.3ca2682d.chunk.js": "/react-naver-movie/static/js/2.3ca2682d.chunk.js",
+    "static/js/2.3ca2682d.chunk.js.map": "/react-naver-movie/static/js/2.3ca2682d.chunk.js.map",
+    "static/js/3.62dd2060.chunk.js": "/react-naver-movie/static/js/3.62dd2060.chunk.js",
+    "static/js/3.62dd2060.chunk.js.map": "/react-naver-movie/static/js/3.62dd2060.chunk.js.map",
+    "index.html": "/react-naver-movie/index.html",
+    "static/css/main.f401cc11.chunk.css.map": "/react-naver-movie/static/css/main.f401cc11.chunk.css.map",
+    "static/js/2.3ca2682d.chunk.js.LICENSE.txt": "/react-naver-movie/static/js/2.3ca2682d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c718fb.js",
+    "static/js/2.3ca2682d.chunk.js",
+    "static/css/main.f401cc11.chunk.css",
+    "static/js/main.168ac7e7.chunk.js"
+  ]
+}
